@@ -1,4 +1,4 @@
-FROM debian
+FROM debian:wheezy
 MAINTAINER Michael Kuck <me@michael-kuck.com>
 
 ENV DEBIAN_FRONTEND noninteractive
